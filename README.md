@@ -21,19 +21,6 @@ It provides a RESTful API to create, read, update, and delete tasks, with proper
 
 ---
 
-## 📂 Project Structure
-task-manager/
-│
-├── public/ # Static files
-├── routes/ # Express routes
-├── controllers/ # Business logic for tasks
-├── models/ # Mongoose schemas
-├── middleware/ # Error handling middleware
-├── db/ # Database connection
-├── app.js # App entry point
-├── package.json
-└── .env.example # Example environment variables
-
 ## ⚙️ Setup & Run Locally
 
 ### 1. Clone the repository
